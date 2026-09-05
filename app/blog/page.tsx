@@ -1,0 +1,9 @@
+import ComingSoon from "@/components/ComingSoon";
+
+export default function Blog() {
+    return (
+        <ComingSoon
+            title="Blog coming soon!"
+        />
+    )
+}
